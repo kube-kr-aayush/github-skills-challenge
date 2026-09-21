@@ -19,5 +19,4 @@ Most records show normal behaviour with low response time and moderate CPU/memor
 The unusual observations are at time 10:05 and 10:06:
 - 10:05: Response time increased to 610 ms and a payment service timeout was logged.
 - 10:06: Response time increased to 640 ms, CPU reached 94%, memory reached 91%, and a database connection timeout was logged.
-
 The values return to normal from 10:07 onwards.
